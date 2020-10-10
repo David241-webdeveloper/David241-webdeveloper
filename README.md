@@ -1,8 +1,11 @@
 ### Hi there 👋
+[![HitCount](http://hits.dwyl.com/David241-webdeveloper/David241-webdeveloper.svg)](http://hits.dwyl.com/David241-webdeveloper/David241-webdeveloper)
 
 <!--
 **David241-webdeveloper/David241-webdeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
+<img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" width="300" height="300">
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -13,4 +16,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
