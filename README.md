@@ -17,3 +17,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+#First drag and Drope the image in issue and then copy the link in the issue and paste in the readme.md
+
+<img src="https://user-images.githubusercontent.com/72241958/95671407-7e8b2880-0bb4-11eb-8631-1ca89dd6ba6d.png" width="700" height="400">
