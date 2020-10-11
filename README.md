@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about anything.
 - 📫 How to reach me: ...
-![Twitter Follow](https://img.shields.io/twitter/follow/Jyoti?color=%231DA1F2&logo=twitter&style=for-the-badge)
 
+![Twitter Follow](https://img.shields.io/twitter/follow/Jyoti?color=%231DA1F2&logo=twitter&style=for-the-badge)
 <img height="32" width="32" src="https://simpleicons.org/icons/linkedin.svg" />  
 <img height="32" width="32" src="https://simpleicons.org/icons/facebook.svg" />
 
