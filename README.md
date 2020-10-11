@@ -14,9 +14,15 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about anything.
 - 📫 How to reach me: ...
+
+<img height="32" width="32" src="https://simpleicons.org/icons/linkedin.svg" />  
+<img height="32" width="32" src="https://simpleicons.org/icons/facebook.svg" />
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
 #First drag and Drope the image in issue and then copy the link in the issue and paste in the readme.md
 
 <img src="https://user-images.githubusercontent.com/72241958/95671407-7e8b2880-0bb4-11eb-8631-1ca89dd6ba6d.png" width="700" height="400">
+
+![yogeshwari's github stats](https://github-readme-stats.vercel.app/api?username=Yogeshwari-harode&show_icons=true)
