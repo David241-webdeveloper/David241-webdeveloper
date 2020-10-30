@@ -1,7 +1,12 @@
 ### Hola This is David241 👋
 [![HitCount](http://hits.dwyl.com/David241-webdeveloper/David241-webdeveloper.svg)](http://hits.dwyl.com/David241-webdeveloper/David241-webdeveloper)
+<br>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yogeshwari-harode&repo=github-readme-stats" />
+</a>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Yogeshwari-harode&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Yogeshwari-harode&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=#DB7E34,#7334DB ">
 
 
 <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" width="300" height="300">
