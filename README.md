@@ -6,7 +6,7 @@
 </a>
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=Yogeshwari-harode&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=#DB7E34">
+<img src="https://github-readme-stats.vercel.app/api?username=Yogeshwari-harode&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=#34DBC9">
 
 
 <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" width="300" height="300">
